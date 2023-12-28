@@ -1,0 +1,1777 @@
+State,Year,Quarter,Reg_name,Reg_users
+west-bengal,2021,3,north twenty four parganas,2852030
+west-bengal,2021,3,kolkata,2078360
+west-bengal,2021,3,south twenty four parganas,1383020
+west-bengal,2021,3,murshidabad,1342984
+west-bengal,2021,3,hooghly,1198858
+west-bengal,2021,3,howrah,1077467
+west-bengal,2021,3,nadia,1026795
+west-bengal,2021,3,purba medinipur,1017925
+west-bengal,2021,3,paschim medinipur,922218
+west-bengal,2021,3,purba bardhaman,847622
+west-bengal,2020,3,north twenty four parganas,2143943
+west-bengal,2020,3,kolkata,1573291
+west-bengal,2020,3,south twenty four parganas,1023020
+west-bengal,2020,3,murshidabad,1005986
+west-bengal,2020,3,hooghly,906517
+west-bengal,2020,3,howrah,804627
+west-bengal,2020,3,nadia,768633
+west-bengal,2020,3,purba medinipur,760873
+west-bengal,2020,3,paschim medinipur,689466
+west-bengal,2020,3,purba bardhaman,639938
+west-bengal,2023,3,north twenty four parganas,4241525
+west-bengal,2023,3,kolkata,3053050
+west-bengal,2023,3,south twenty four parganas,2074469
+west-bengal,2023,3,murshidabad,2023550
+west-bengal,2023,3,hooghly,1787671
+west-bengal,2023,3,howrah,1608895
+west-bengal,2023,3,nadia,1544294
+west-bengal,2023,3,purba medinipur,1530289
+west-bengal,2023,3,paschim medinipur,1384076
+west-bengal,2023,3,purba bardhaman,1272153
+west-bengal,2018,3,north twenty four parganas,722572
+west-bengal,2018,3,kolkata,548600
+west-bengal,2018,3,murshidabad,335935
+west-bengal,2018,3,south twenty four parganas,284988
+west-bengal,2018,3,hooghly,280640
+west-bengal,2018,3,nadia,262694
+west-bengal,2018,3,howrah,255445
+west-bengal,2018,3,purba medinipur,252759
+west-bengal,2018,3,paschim bardhaman,251021
+west-bengal,2018,3,paschim medinipur,238405
+west-bengal,2019,3,north twenty four parganas,1478650
+west-bengal,2019,3,kolkata,1138965
+west-bengal,2019,3,south twenty four parganas,659919
+west-bengal,2019,3,hooghly,624518
+west-bengal,2019,3,murshidabad,622422
+west-bengal,2019,3,howrah,540552
+west-bengal,2019,3,purba medinipur,504142
+west-bengal,2019,3,nadia,502635
+west-bengal,2019,3,paschim medinipur,455417
+west-bengal,2019,3,paschim bardhaman,438438
+west-bengal,2022,3,north twenty four parganas,3578500
+west-bengal,2022,3,kolkata,2588380
+west-bengal,2022,3,south twenty four parganas,1745822
+west-bengal,2022,3,murshidabad,1696729
+west-bengal,2022,3,hooghly,1506412
+west-bengal,2022,3,howrah,1354886
+west-bengal,2022,3,nadia,1296764
+west-bengal,2022,3,purba medinipur,1286641
+west-bengal,2022,3,paschim medinipur,1165076
+west-bengal,2022,3,purba bardhaman,1070637
+nagaland,2021,3,dimapur,109644
+nagaland,2021,3,kohima,43467
+nagaland,2021,3,mon,18911
+nagaland,2021,3,mokokchung,18340
+nagaland,2021,3,wokha,11126
+nagaland,2021,3,tuensang,10433
+nagaland,2021,3,phek,8933
+nagaland,2021,3,zunheboto,7147
+nagaland,2021,3,peren,5089
+nagaland,2021,3,kiphire,4626
+nagaland,2020,3,dimapur,79061
+nagaland,2020,3,kohima,31483
+nagaland,2020,3,mon,13591
+nagaland,2020,3,mokokchung,13155
+nagaland,2020,3,wokha,7980
+nagaland,2020,3,tuensang,7220
+nagaland,2020,3,phek,6151
+nagaland,2020,3,zunheboto,4942
+nagaland,2020,3,peren,3486
+nagaland,2020,3,kiphire,3306
+nagaland,2023,3,dimapur,165789
+nagaland,2023,3,kohima,65492
+nagaland,2023,3,mon,29096
+nagaland,2023,3,mokokchung,27434
+nagaland,2023,3,wokha,16792
+nagaland,2023,3,tuensang,15941
+nagaland,2023,3,phek,13632
+nagaland,2023,3,zunheboto,10809
+nagaland,2023,3,peren,7771
+nagaland,2023,3,kiphire,7130
+nagaland,2018,3,dimapur,17039
+nagaland,2018,3,kohima,6298
+nagaland,2018,3,mokokchung,2313
+nagaland,2018,3,mon,1287
+nagaland,2018,3,phek,1083
+nagaland,2018,3,wokha,1017
+nagaland,2018,3,tuensang,934
+nagaland,2018,3,zunheboto,821
+nagaland,2018,3,peren,526
+nagaland,2018,3,kiphire,465
+nagaland,2019,3,dimapur,41036
+nagaland,2019,3,kohima,15677
+nagaland,2019,3,mokokchung,5593
+nagaland,2019,3,mon,3976
+nagaland,2019,3,wokha,2961
+nagaland,2019,3,phek,2642
+nagaland,2019,3,tuensang,2599
+nagaland,2019,3,zunheboto,2058
+nagaland,2019,3,peren,1377
+nagaland,2019,3,kiphire,1251
+nagaland,2022,3,dimapur,139011
+nagaland,2022,3,kohima,55046
+nagaland,2022,3,mon,24237
+nagaland,2022,3,mokokchung,23192
+nagaland,2022,3,wokha,14092
+nagaland,2022,3,tuensang,13393
+nagaland,2022,3,phek,11494
+nagaland,2022,3,zunheboto,9128
+nagaland,2022,3,peren,6534
+nagaland,2022,3,kiphire,5963
+chandigarh,2021,3,chandigarh,480463
+chandigarh,2020,3,chandigarh,362588
+chandigarh,2023,3,chandigarh,704144
+chandigarh,2018,3,chandigarh,143893
+chandigarh,2019,3,chandigarh,267337
+chandigarh,2022,3,chandigarh,598698
+meghalaya,2021,3,east khasi hills,90505
+meghalaya,2021,3,west garo hills,47869
+meghalaya,2021,3,ribhoi,21875
+meghalaya,2021,3,east jaintia hills,15847
+meghalaya,2021,3,west jaintia hills,10337
+meghalaya,2021,3,north garo hills,7584
+meghalaya,2021,3,south west garo hills,7531
+meghalaya,2021,3,east garo hills,7389
+meghalaya,2021,3,south garo hills,6442
+meghalaya,2021,3,west khasi hills,5884
+meghalaya,2020,3,east khasi hills,65268
+meghalaya,2020,3,west garo hills,34201
+meghalaya,2020,3,ribhoi,15427
+meghalaya,2020,3,east jaintia hills,11084
+meghalaya,2020,3,west jaintia hills,6997
+meghalaya,2020,3,north garo hills,5242
+meghalaya,2020,3,south west garo hills,5082
+meghalaya,2020,3,east garo hills,5002
+meghalaya,2020,3,south garo hills,4370
+meghalaya,2020,3,west khasi hills,3899
+meghalaya,2023,3,east khasi hills,134378
+meghalaya,2023,3,west garo hills,73025
+meghalaya,2023,3,ribhoi,33175
+meghalaya,2023,3,east jaintia hills,24260
+meghalaya,2023,3,west jaintia hills,15633
+meghalaya,2023,3,south west garo hills,11626
+meghalaya,2023,3,north garo hills,11624
+meghalaya,2023,3,east garo hills,11212
+meghalaya,2023,3,south garo hills,9809
+meghalaya,2023,3,west khasi hills,8831
+meghalaya,2018,3,east khasi hills,17543
+meghalaya,2018,3,west garo hills,7529
+meghalaya,2018,3,ribhoi,3889
+meghalaya,2018,3,east jaintia hills,2886
+meghalaya,2018,3,west jaintia hills,1465
+meghalaya,2018,3,south garo hills,821
+meghalaya,2018,3,south west garo hills,810
+meghalaya,2018,3,north garo hills,737
+meghalaya,2018,3,west khasi hills,730
+meghalaya,2018,3,east garo hills,694
+meghalaya,2019,3,east khasi hills,38761
+meghalaya,2019,3,west garo hills,18509
+meghalaya,2019,3,ribhoi,9007
+meghalaya,2019,3,east jaintia hills,6371
+meghalaya,2019,3,west jaintia hills,3346
+meghalaya,2019,3,north garo hills,2403
+meghalaya,2019,3,east garo hills,2313
+meghalaya,2019,3,south west garo hills,2306
+meghalaya,2019,3,south garo hills,2020
+meghalaya,2019,3,west khasi hills,1838
+meghalaya,2022,3,east khasi hills,113816
+meghalaya,2022,3,west garo hills,61273
+meghalaya,2022,3,ribhoi,27844
+meghalaya,2022,3,east jaintia hills,20320
+meghalaya,2022,3,west jaintia hills,13176
+meghalaya,2022,3,north garo hills,9773
+meghalaya,2022,3,south west garo hills,9735
+meghalaya,2022,3,east garo hills,9484
+meghalaya,2022,3,south garo hills,8265
+meghalaya,2022,3,west khasi hills,7493
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,dadra and nagar haveli,222731
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,daman,135976
+dadra-&-nagar-haveli-&-daman-&-diu,2021,3,diu,13167
+dadra-&-nagar-haveli-&-daman-&-diu,2020,3,dadra and nagar haveli,160183
+dadra-&-nagar-haveli-&-daman-&-diu,2020,3,daman,98108
+dadra-&-nagar-haveli-&-daman-&-diu,2020,3,diu,9655
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,dadra and nagar haveli,341846
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,daman,207437
+dadra-&-nagar-haveli-&-daman-&-diu,2023,3,diu,19752
+dadra-&-nagar-haveli-&-daman-&-diu,2018,3,dadra and nagar haveli,55626
+dadra-&-nagar-haveli-&-daman-&-diu,2018,3,daman,32651
+dadra-&-nagar-haveli-&-daman-&-diu,2018,3,diu,3830
+dadra-&-nagar-haveli-&-daman-&-diu,2019,3,dadra and nagar haveli,105329
+dadra-&-nagar-haveli-&-daman-&-diu,2019,3,daman,64854
+dadra-&-nagar-haveli-&-daman-&-diu,2019,3,diu,6746
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,dadra and nagar haveli,284923
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,daman,173219
+dadra-&-nagar-haveli-&-daman-&-diu,2022,3,diu,16665
+telangana,2021,3,hyderabad,3839513
+telangana,2021,3,rangareddy,3310906
+telangana,2021,3,medchal malkajgiri,2790387
+telangana,2021,3,sangareddy,880907
+telangana,2021,3,warangal urban,707591
+telangana,2021,3,nalgonda,598288
+telangana,2021,3,khammam,572647
+telangana,2021,3,nizamabad,556044
+telangana,2021,3,karimnagar,524929
+telangana,2021,3,bhadradri kothagudem,409224
+telangana,2020,3,hyderabad,2875965
+telangana,2020,3,rangareddy,2495699
+telangana,2020,3,medchal malkajgiri,2111567
+telangana,2020,3,sangareddy,649580
+telangana,2020,3,warangal urban,535485
+telangana,2020,3,nalgonda,435022
+telangana,2020,3,khammam,421101
+telangana,2020,3,nizamabad,405678
+telangana,2020,3,karimnagar,394328
+telangana,2020,3,bhadradri kothagudem,297785
+telangana,2023,3,hyderabad,5543537
+telangana,2023,3,rangareddy,4809474
+telangana,2023,3,medchal malkajgiri,4064256
+telangana,2023,3,sangareddy,1310211
+telangana,2023,3,warangal urban,1039220
+telangana,2023,3,nalgonda,902281
+telangana,2023,3,khammam,857112
+telangana,2023,3,nizamabad,823846
+telangana,2023,3,karimnagar,775594
+telangana,2023,3,bhadradri kothagudem,616038
+telangana,2018,3,hyderabad,1024241
+telangana,2018,3,rangareddy,963186
+telangana,2018,3,medchal malkajgiri,828425
+telangana,2018,3,sangareddy,220802
+telangana,2018,3,warangal urban,199919
+telangana,2018,3,karimnagar,148562
+telangana,2018,3,khammam,135353
+telangana,2018,3,nalgonda,134723
+telangana,2018,3,nizamabad,120650
+telangana,2018,3,peddapalle,102365
+telangana,2019,3,hyderabad,2071673
+telangana,2019,3,rangareddy,1826019
+telangana,2019,3,medchal malkajgiri,1572320
+telangana,2019,3,sangareddy,441944
+telangana,2019,3,warangal urban,381730
+telangana,2019,3,karimnagar,274735
+telangana,2019,3,nalgonda,274568
+telangana,2019,3,khammam,270101
+telangana,2019,3,nizamabad,248977
+telangana,2019,3,siddipet,196397
+telangana,2022,3,hyderabad,4739891
+telangana,2022,3,rangareddy,4105107
+telangana,2022,3,medchal malkajgiri,3463208
+telangana,2022,3,sangareddy,1106571
+telangana,2022,3,warangal urban,881363
+telangana,2022,3,nalgonda,758377
+telangana,2022,3,khammam,721877
+telangana,2022,3,nizamabad,697031
+telangana,2022,3,karimnagar,656534
+telangana,2022,3,bhadradri kothagudem,517431
+andaman-&-nicobar-islands,2021,3,south andaman,55873
+andaman-&-nicobar-islands,2021,3,north and middle andaman,9263
+andaman-&-nicobar-islands,2021,3,nicobars,1846
+andaman-&-nicobar-islands,2020,3,south andaman,34833
+andaman-&-nicobar-islands,2020,3,north and middle andaman,5355
+andaman-&-nicobar-islands,2020,3,nicobars,1147
+andaman-&-nicobar-islands,2023,3,south andaman,83305
+andaman-&-nicobar-islands,2023,3,north and middle andaman,14216
+andaman-&-nicobar-islands,2023,3,nicobars,2734
+andaman-&-nicobar-islands,2018,3,south andaman,10474
+andaman-&-nicobar-islands,2018,3,north and middle andaman,1208
+andaman-&-nicobar-islands,2018,3,nicobars,467
+andaman-&-nicobar-islands,2019,3,south andaman,20518
+andaman-&-nicobar-islands,2019,3,north and middle andaman,2662
+andaman-&-nicobar-islands,2019,3,nicobars,751
+andaman-&-nicobar-islands,2022,3,south andaman,70445
+andaman-&-nicobar-islands,2022,3,north and middle andaman,11897
+andaman-&-nicobar-islands,2022,3,nicobars,2300
+jharkhand,2021,3,ranchi,982147
+jharkhand,2021,3,dhanbad,759888
+jharkhand,2021,3,east singhbhum,642805
+jharkhand,2021,3,bokaro,551517
+jharkhand,2021,3,hazaribagh,424328
+jharkhand,2021,3,giridih,337529
+jharkhand,2021,3,deoghar,327586
+jharkhand,2021,3,palamu,289617
+jharkhand,2021,3,ramgarh,250016
+jharkhand,2021,3,saraikela kharsawan,205625
+jharkhand,2020,3,ranchi,722352
+jharkhand,2020,3,dhanbad,564484
+jharkhand,2020,3,east singhbhum,476881
+jharkhand,2020,3,bokaro,412560
+jharkhand,2020,3,hazaribagh,306623
+jharkhand,2020,3,giridih,242810
+jharkhand,2020,3,deoghar,238221
+jharkhand,2020,3,palamu,204809
+jharkhand,2020,3,ramgarh,182149
+jharkhand,2020,3,saraikela kharsawan,150480
+jharkhand,2023,3,ranchi,1472886
+jharkhand,2023,3,dhanbad,1145055
+jharkhand,2023,3,east singhbhum,958456
+jharkhand,2023,3,bokaro,830731
+jharkhand,2023,3,hazaribagh,649586
+jharkhand,2023,3,giridih,520993
+jharkhand,2023,3,deoghar,504651
+jharkhand,2023,3,palamu,450874
+jharkhand,2023,3,ramgarh,380913
+jharkhand,2023,3,saraikela kharsawan,310059
+jharkhand,2018,3,ranchi,265341
+jharkhand,2018,3,dhanbad,219103
+jharkhand,2018,3,east singhbhum,176668
+jharkhand,2018,3,bokaro,167183
+jharkhand,2018,3,hazaribagh,99502
+jharkhand,2018,3,giridih,80440
+jharkhand,2018,3,deoghar,63814
+jharkhand,2018,3,ramgarh,63704
+jharkhand,2018,3,palamu,59382
+jharkhand,2018,3,saraikela kharsawan,54706
+jharkhand,2019,3,ranchi,495155
+jharkhand,2019,3,dhanbad,388528
+jharkhand,2019,3,east singhbhum,329319
+jharkhand,2019,3,bokaro,290252
+jharkhand,2019,3,hazaribagh,196452
+jharkhand,2019,3,giridih,155689
+jharkhand,2019,3,deoghar,132603
+jharkhand,2019,3,palamu,123609
+jharkhand,2019,3,ramgarh,119804
+jharkhand,2019,3,saraikela kharsawan,101247
+jharkhand,2022,3,ranchi,1240013
+jharkhand,2022,3,dhanbad,961257
+jharkhand,2022,3,east singhbhum,808077
+jharkhand,2022,3,bokaro,697249
+jharkhand,2022,3,hazaribagh,542145
+jharkhand,2022,3,giridih,434250
+jharkhand,2022,3,deoghar,420404
+jharkhand,2022,3,palamu,374369
+jharkhand,2022,3,ramgarh,318524
+jharkhand,2022,3,saraikela kharsawan,260605
+arunachal-pradesh,2021,3,papum pare,97854
+arunachal-pradesh,2021,3,west kameng,24489
+arunachal-pradesh,2021,3,changlang,23328
+arunachal-pradesh,2021,3,east siang,22538
+arunachal-pradesh,2021,3,lohit,16680
+arunachal-pradesh,2021,3,tawang,13650
+arunachal-pradesh,2021,3,west siang,12616
+arunachal-pradesh,2021,3,namsai,12140
+arunachal-pradesh,2021,3,lower dibang valley,9920
+arunachal-pradesh,2021,3,lower subansiri,9451
+arunachal-pradesh,2020,3,papum pare,69419
+arunachal-pradesh,2020,3,west kameng,17636
+arunachal-pradesh,2020,3,changlang,16385
+arunachal-pradesh,2020,3,east siang,15921
+arunachal-pradesh,2020,3,lohit,11755
+arunachal-pradesh,2020,3,tawang,9944
+arunachal-pradesh,2020,3,west siang,8623
+arunachal-pradesh,2020,3,namsai,8553
+arunachal-pradesh,2020,3,lower dibang valley,6799
+arunachal-pradesh,2020,3,lower subansiri,6456
+arunachal-pradesh,2023,3,papum pare,147681
+arunachal-pradesh,2023,3,west kameng,36577
+arunachal-pradesh,2023,3,changlang,35843
+arunachal-pradesh,2023,3,east siang,34293
+arunachal-pradesh,2023,3,lohit,25647
+arunachal-pradesh,2023,3,tawang,20501
+arunachal-pradesh,2023,3,west siang,19174
+arunachal-pradesh,2023,3,namsai,18704
+arunachal-pradesh,2023,3,lower dibang valley,15073
+arunachal-pradesh,2023,3,lower subansiri,14442
+arunachal-pradesh,2018,3,papum pare,16009
+arunachal-pradesh,2018,3,west kameng,4765
+arunachal-pradesh,2018,3,east siang,3590
+arunachal-pradesh,2018,3,tawang,3112
+arunachal-pradesh,2018,3,changlang,2889
+arunachal-pradesh,2018,3,lohit,2612
+arunachal-pradesh,2018,3,namsai,1862
+arunachal-pradesh,2018,3,west siang,1652
+arunachal-pradesh,2018,3,lower dibang valley,1286
+arunachal-pradesh,2018,3,tirap,1226
+arunachal-pradesh,2019,3,papum pare,38845
+arunachal-pradesh,2019,3,west kameng,11186
+arunachal-pradesh,2019,3,east siang,8571
+arunachal-pradesh,2019,3,changlang,8145
+arunachal-pradesh,2019,3,tawang,6553
+arunachal-pradesh,2019,3,lohit,6421
+arunachal-pradesh,2019,3,namsai,4563
+arunachal-pradesh,2019,3,west siang,4101
+arunachal-pradesh,2019,3,lower dibang valley,3398
+arunachal-pradesh,2019,3,tirap,3099
+arunachal-pradesh,2022,3,papum pare,124095
+arunachal-pradesh,2022,3,west kameng,30964
+arunachal-pradesh,2022,3,changlang,29965
+arunachal-pradesh,2022,3,east siang,28698
+arunachal-pradesh,2022,3,lohit,21385
+arunachal-pradesh,2022,3,tawang,17281
+arunachal-pradesh,2022,3,west siang,16063
+arunachal-pradesh,2022,3,namsai,15642
+arunachal-pradesh,2022,3,lower dibang valley,12668
+arunachal-pradesh,2022,3,lower subansiri,12085
+karnataka,2021,3,bengaluru urban,11321012
+karnataka,2021,3,belagavi,1304051
+karnataka,2021,3,mysuru,1250860
+karnataka,2021,3,dakshina kannada,855634
+karnataka,2021,3,tumakuru,850678
+karnataka,2021,3,dharwad,818797
+karnataka,2021,3,ballari,814170
+karnataka,2021,3,bengaluru rural,735551
+karnataka,2021,3,kalaburagi,694567
+karnataka,2021,3,vijayapura,627795
+karnataka,2020,3,bengaluru urban,8611452
+karnataka,2020,3,belagavi,951629
+karnataka,2020,3,mysuru,923296
+karnataka,2020,3,tumakuru,618091
+karnataka,2020,3,dakshina kannada,617552
+karnataka,2020,3,dharwad,608659
+karnataka,2020,3,ballari,595935
+karnataka,2020,3,bengaluru rural,543893
+karnataka,2020,3,kalaburagi,507894
+karnataka,2020,3,vijayapura,458119
+karnataka,2023,3,bengaluru urban,16382332
+karnataka,2023,3,belagavi,1932291
+karnataka,2023,3,mysuru,1828718
+karnataka,2023,3,tumakuru,1266959
+karnataka,2023,3,dakshina kannada,1248816
+karnataka,2023,3,ballari,1225188
+karnataka,2023,3,dharwad,1209368
+karnataka,2023,3,bengaluru rural,1093777
+karnataka,2023,3,kalaburagi,1035286
+karnataka,2023,3,vijayapura,940972
+karnataka,2018,3,bengaluru urban,3167597
+karnataka,2018,3,mysuru,262075
+karnataka,2018,3,belagavi,252307
+karnataka,2018,3,dharwad,181324
+karnataka,2018,3,ballari,177311
+karnataka,2018,3,bengaluru rural,156268
+karnataka,2018,3,tumakuru,154217
+karnataka,2018,3,dakshina kannada,153231
+karnataka,2018,3,kalaburagi,145495
+karnataka,2018,3,vijayapura,124561
+karnataka,2019,3,bengaluru urban,6383771
+karnataka,2019,3,mysuru,601068
+karnataka,2019,3,belagavi,568340
+karnataka,2019,3,dharwad,397243
+karnataka,2019,3,ballari,376264
+karnataka,2019,3,tumakuru,366543
+karnataka,2019,3,dakshina kannada,363240
+karnataka,2019,3,bengaluru rural,361924
+karnataka,2019,3,kalaburagi,306756
+karnataka,2019,3,kolar,277877
+karnataka,2022,3,bengaluru urban,13997602
+karnataka,2022,3,belagavi,1635855
+karnataka,2022,3,mysuru,1556384
+karnataka,2022,3,tumakuru,1070793
+karnataka,2022,3,dakshina kannada,1065741
+karnataka,2022,3,ballari,1030428
+karnataka,2022,3,dharwad,1024771
+karnataka,2022,3,bengaluru rural,924127
+karnataka,2022,3,kalaburagi,874282
+karnataka,2022,3,vijayapura,792750
+uttar-pradesh,2021,3,gautam buddha nagar,2496114
+uttar-pradesh,2021,3,lucknow,2076033
+uttar-pradesh,2021,3,ghaziabad,2031752
+uttar-pradesh,2021,3,prayagraj,1320432
+uttar-pradesh,2021,3,kanpur nagar,1263050
+uttar-pradesh,2021,3,varanasi,1239725
+uttar-pradesh,2021,3,agra,1124720
+uttar-pradesh,2021,3,gorakhpur,900171
+uttar-pradesh,2021,3,meerut,853246
+uttar-pradesh,2021,3,bareilly,766809
+uttar-pradesh,2020,3,gautam buddha nagar,1885370
+uttar-pradesh,2020,3,lucknow,1551932
+uttar-pradesh,2020,3,ghaziabad,1518450
+uttar-pradesh,2020,3,prayagraj,974228
+uttar-pradesh,2020,3,kanpur nagar,941379
+uttar-pradesh,2020,3,varanasi,927313
+uttar-pradesh,2020,3,agra,822893
+uttar-pradesh,2020,3,gorakhpur,661272
+uttar-pradesh,2020,3,meerut,624570
+uttar-pradesh,2020,3,bareilly,558821
+uttar-pradesh,2023,3,gautam buddha nagar,3694806
+uttar-pradesh,2023,3,lucknow,3079592
+uttar-pradesh,2023,3,ghaziabad,3015494
+uttar-pradesh,2023,3,prayagraj,2002831
+uttar-pradesh,2023,3,kanpur nagar,1892032
+uttar-pradesh,2023,3,varanasi,1857307
+uttar-pradesh,2023,3,agra,1696452
+uttar-pradesh,2023,3,gorakhpur,1370080
+uttar-pradesh,2023,3,meerut,1272850
+uttar-pradesh,2023,3,bareilly,1164885
+uttar-pradesh,2018,3,gautam buddha nagar,727480
+uttar-pradesh,2018,3,lucknow,620328
+uttar-pradesh,2018,3,ghaziabad,538532
+uttar-pradesh,2018,3,prayagraj,363743
+uttar-pradesh,2018,3,varanasi,352604
+uttar-pradesh,2018,3,kanpur nagar,349250
+uttar-pradesh,2018,3,agra,257453
+uttar-pradesh,2018,3,gorakhpur,224409
+uttar-pradesh,2018,3,meerut,205977
+uttar-pradesh,2018,3,bareilly,187467
+uttar-pradesh,2019,3,gautam buddha nagar,1415905
+uttar-pradesh,2019,3,lucknow,1124832
+uttar-pradesh,2019,3,ghaziabad,1088568
+uttar-pradesh,2019,3,prayagraj,667277
+uttar-pradesh,2019,3,kanpur nagar,655175
+uttar-pradesh,2019,3,varanasi,639586
+uttar-pradesh,2019,3,agra,530228
+uttar-pradesh,2019,3,gorakhpur,434172
+uttar-pradesh,2019,3,meerut,408972
+uttar-pradesh,2019,3,bareilly,356146
+uttar-pradesh,2022,3,gautam buddha nagar,3130224
+uttar-pradesh,2022,3,lucknow,2604663
+uttar-pradesh,2022,3,ghaziabad,2549377
+uttar-pradesh,2022,3,prayagraj,1678668
+uttar-pradesh,2022,3,kanpur nagar,1592126
+uttar-pradesh,2022,3,varanasi,1563730
+uttar-pradesh,2022,3,agra,1426154
+uttar-pradesh,2022,3,gorakhpur,1148103
+uttar-pradesh,2022,3,meerut,1075255
+uttar-pradesh,2022,3,bareilly,977218
+jammu-&-kashmir,2021,3,jammu,354280
+jammu-&-kashmir,2021,3,srinagar,122752
+jammu-&-kashmir,2021,3,baramulla,104763
+jammu-&-kashmir,2021,3,budgam,78298
+jammu-&-kashmir,2021,3,kathua,73280
+jammu-&-kashmir,2021,3,anantnag,70633
+jammu-&-kashmir,2021,3,kupwara,69102
+jammu-&-kashmir,2021,3,udhampur,68452
+jammu-&-kashmir,2021,3,samba,61677
+jammu-&-kashmir,2021,3,rajouri,55013
+jammu-&-kashmir,2020,3,jammu,248814
+jammu-&-kashmir,2020,3,srinagar,87182
+jammu-&-kashmir,2020,3,baramulla,73162
+jammu-&-kashmir,2020,3,budgam,55153
+jammu-&-kashmir,2020,3,kathua,50914
+jammu-&-kashmir,2020,3,anantnag,49443
+jammu-&-kashmir,2020,3,udhampur,47399
+jammu-&-kashmir,2020,3,kupwara,47288
+jammu-&-kashmir,2020,3,samba,42915
+jammu-&-kashmir,2020,3,pulwama,38434
+jammu-&-kashmir,2023,3,jammu,524726
+jammu-&-kashmir,2023,3,srinagar,180872
+jammu-&-kashmir,2023,3,baramulla,156673
+jammu-&-kashmir,2023,3,budgam,116523
+jammu-&-kashmir,2023,3,kathua,110005
+jammu-&-kashmir,2023,3,anantnag,105459
+jammu-&-kashmir,2023,3,kupwara,104220
+jammu-&-kashmir,2023,3,udhampur,103054
+jammu-&-kashmir,2023,3,samba,92315
+jammu-&-kashmir,2023,3,rajouri,83335
+jammu-&-kashmir,2018,3,jammu,86877
+jammu-&-kashmir,2018,3,srinagar,35583
+jammu-&-kashmir,2018,3,baramulla,31069
+jammu-&-kashmir,2018,3,budgam,22301
+jammu-&-kashmir,2018,3,anantnag,20234
+jammu-&-kashmir,2018,3,udhampur,16058
+jammu-&-kashmir,2018,3,kathua,15849
+jammu-&-kashmir,2018,3,kupwara,15754
+jammu-&-kashmir,2018,3,pulwama,15427
+jammu-&-kashmir,2018,3,samba,13304
+jammu-&-kashmir,2019,3,jammu,169849
+jammu-&-kashmir,2019,3,srinagar,64758
+jammu-&-kashmir,2019,3,baramulla,54404
+jammu-&-kashmir,2019,3,budgam,41004
+jammu-&-kashmir,2019,3,anantnag,36371
+jammu-&-kashmir,2019,3,kupwara,32431
+jammu-&-kashmir,2019,3,kathua,32213
+jammu-&-kashmir,2019,3,udhampur,31297
+jammu-&-kashmir,2019,3,pulwama,27963
+jammu-&-kashmir,2019,3,samba,27579
+jammu-&-kashmir,2022,3,jammu,445345
+jammu-&-kashmir,2022,3,srinagar,153729
+jammu-&-kashmir,2022,3,baramulla,132526
+jammu-&-kashmir,2022,3,budgam,98698
+jammu-&-kashmir,2022,3,kathua,93084
+jammu-&-kashmir,2022,3,anantnag,89184
+jammu-&-kashmir,2022,3,kupwara,87867
+jammu-&-kashmir,2022,3,udhampur,86915
+jammu-&-kashmir,2022,3,samba,78092
+jammu-&-kashmir,2022,3,rajouri,70231
+ladakh,2021,3,leh ladakh,62633
+ladakh,2021,3,kargil,18577
+ladakh,2020,3,leh ladakh,45587
+ladakh,2020,3,kargil,12814
+ladakh,2023,3,leh ladakh,92688
+ladakh,2023,3,kargil,27747
+ladakh,2018,3,leh ladakh,14617
+ladakh,2018,3,kargil,3132
+ladakh,2019,3,leh ladakh,31455
+ladakh,2019,3,kargil,7718
+ladakh,2022,3,leh ladakh,78769
+ladakh,2022,3,kargil,23530
+lakshadweep,2021,3,lakshadweep,5287
+lakshadweep,2020,3,lakshadweep,3644
+lakshadweep,2023,3,lakshadweep,7912
+lakshadweep,2018,3,lakshadweep,918
+lakshadweep,2019,3,lakshadweep,2117
+lakshadweep,2022,3,lakshadweep,6645
+himachal-pradesh,2021,3,solan,360324
+himachal-pradesh,2021,3,kangra,355274
+himachal-pradesh,2021,3,shimla,235163
+himachal-pradesh,2021,3,mandi,216188
+himachal-pradesh,2021,3,sirmaur,134870
+himachal-pradesh,2021,3,hamirpur,126753
+himachal-pradesh,2021,3,kullu,124078
+himachal-pradesh,2021,3,una,116973
+himachal-pradesh,2021,3,bilaspur,91291
+himachal-pradesh,2021,3,chamba,90344
+himachal-pradesh,2020,3,solan,265701
+himachal-pradesh,2020,3,kangra,261293
+himachal-pradesh,2020,3,shimla,172418
+himachal-pradesh,2020,3,mandi,158237
+himachal-pradesh,2020,3,sirmaur,97464
+himachal-pradesh,2020,3,hamirpur,93465
+himachal-pradesh,2020,3,kullu,90699
+himachal-pradesh,2020,3,una,86177
+himachal-pradesh,2020,3,bilaspur,67233
+himachal-pradesh,2020,3,chamba,65214
+himachal-pradesh,2023,3,solan,544140
+himachal-pradesh,2023,3,kangra,530786
+himachal-pradesh,2023,3,shimla,348966
+himachal-pradesh,2023,3,mandi,322502
+himachal-pradesh,2023,3,sirmaur,203991
+himachal-pradesh,2023,3,hamirpur,189913
+himachal-pradesh,2023,3,kullu,184280
+himachal-pradesh,2023,3,una,175125
+himachal-pradesh,2023,3,bilaspur,136648
+himachal-pradesh,2023,3,chamba,135482
+himachal-pradesh,2018,3,solan,88724
+himachal-pradesh,2018,3,kangra,71494
+himachal-pradesh,2018,3,shimla,49820
+himachal-pradesh,2018,3,mandi,45876
+himachal-pradesh,2018,3,sirmaur,28959
+himachal-pradesh,2018,3,hamirpur,27915
+himachal-pradesh,2018,3,kullu,26840
+himachal-pradesh,2018,3,una,24952
+himachal-pradesh,2018,3,bilaspur,21030
+himachal-pradesh,2018,3,chamba,16157
+himachal-pradesh,2019,3,solan,178922
+himachal-pradesh,2019,3,kangra,160161
+himachal-pradesh,2019,3,shimla,110575
+himachal-pradesh,2019,3,mandi,98589
+himachal-pradesh,2019,3,sirmaur,62048
+himachal-pradesh,2019,3,kullu,59192
+himachal-pradesh,2019,3,hamirpur,58950
+himachal-pradesh,2019,3,una,54164
+himachal-pradesh,2019,3,bilaspur,43115
+himachal-pradesh,2019,3,chamba,37974
+himachal-pradesh,2022,3,solan,457393
+himachal-pradesh,2022,3,kangra,449619
+himachal-pradesh,2022,3,shimla,296508
+himachal-pradesh,2022,3,mandi,273475
+himachal-pradesh,2022,3,sirmaur,171743
+himachal-pradesh,2022,3,hamirpur,160759
+himachal-pradesh,2022,3,kullu,156387
+himachal-pradesh,2022,3,una,148148
+himachal-pradesh,2022,3,bilaspur,115654
+himachal-pradesh,2022,3,chamba,114576
+madhya-pradesh,2021,3,indore,2028266
+madhya-pradesh,2021,3,bhopal,1531544
+madhya-pradesh,2021,3,gwalior,809887
+madhya-pradesh,2021,3,jabalpur,745631
+madhya-pradesh,2021,3,ujjain,596195
+madhya-pradesh,2021,3,sagar,501819
+madhya-pradesh,2021,3,dhar,483901
+madhya-pradesh,2021,3,rewa,466895
+madhya-pradesh,2021,3,chhindwara,462834
+madhya-pradesh,2021,3,satna,426929
+madhya-pradesh,2020,3,indore,1524036
+madhya-pradesh,2020,3,bhopal,1162000
+madhya-pradesh,2020,3,gwalior,603096
+madhya-pradesh,2020,3,jabalpur,555235
+madhya-pradesh,2020,3,ujjain,436068
+madhya-pradesh,2020,3,sagar,368745
+madhya-pradesh,2020,3,dhar,346394
+madhya-pradesh,2020,3,rewa,343897
+madhya-pradesh,2020,3,chhindwara,336306
+madhya-pradesh,2020,3,satna,311884
+madhya-pradesh,2023,3,indore,2996261
+madhya-pradesh,2023,3,bhopal,2265685
+madhya-pradesh,2023,3,gwalior,1215484
+madhya-pradesh,2023,3,jabalpur,1108465
+madhya-pradesh,2023,3,ujjain,905474
+madhya-pradesh,2023,3,sagar,761623
+madhya-pradesh,2023,3,dhar,740878
+madhya-pradesh,2023,3,rewa,708385
+madhya-pradesh,2023,3,chhindwara,698604
+madhya-pradesh,2023,3,satna,649398
+madhya-pradesh,2018,3,indore,585621
+madhya-pradesh,2018,3,bhopal,474192
+madhya-pradesh,2018,3,gwalior,236305
+madhya-pradesh,2018,3,jabalpur,193535
+madhya-pradesh,2018,3,ujjain,143770
+madhya-pradesh,2018,3,sagar,128283
+madhya-pradesh,2018,3,rewa,125803
+madhya-pradesh,2018,3,dhar,110726
+madhya-pradesh,2018,3,chhindwara,109266
+madhya-pradesh,2018,3,dewas,105774
+madhya-pradesh,2019,3,indore,1071598
+madhya-pradesh,2019,3,bhopal,846170
+madhya-pradesh,2019,3,gwalior,417846
+madhya-pradesh,2019,3,jabalpur,380209
+madhya-pradesh,2019,3,ujjain,280589
+madhya-pradesh,2019,3,sagar,243729
+madhya-pradesh,2019,3,rewa,232367
+madhya-pradesh,2019,3,chhindwara,214945
+madhya-pradesh,2019,3,dhar,214712
+madhya-pradesh,2019,3,satna,203019
+madhya-pradesh,2022,3,indore,2537328
+madhya-pradesh,2022,3,bhopal,1915532
+madhya-pradesh,2022,3,gwalior,1022539
+madhya-pradesh,2022,3,jabalpur,935649
+madhya-pradesh,2022,3,ujjain,758373
+madhya-pradesh,2022,3,sagar,638100
+madhya-pradesh,2022,3,dhar,618777
+madhya-pradesh,2022,3,rewa,594588
+madhya-pradesh,2022,3,chhindwara,587412
+madhya-pradesh,2022,3,satna,544011
+sikkim,2021,3,east,106352
+sikkim,2021,3,south,38616
+sikkim,2021,3,west,24132
+sikkim,2021,3,north,15593
+sikkim,2020,3,east,78018
+sikkim,2020,3,south,28038
+sikkim,2020,3,west,17400
+sikkim,2020,3,north,11317
+sikkim,2023,3,east,156600
+sikkim,2023,3,south,57259
+sikkim,2023,3,west,35808
+sikkim,2023,3,north,23162
+sikkim,2018,3,east,23460
+sikkim,2018,3,south,6943
+sikkim,2018,3,west,4042
+sikkim,2018,3,north,3192
+sikkim,2019,3,east,49404
+sikkim,2019,3,south,16016
+sikkim,2019,3,west,9481
+sikkim,2019,3,north,7227
+sikkim,2022,3,east,133152
+sikkim,2022,3,south,48673
+sikkim,2022,3,west,30513
+sikkim,2022,3,north,19687
+odisha,2021,3,khordha,1618171
+odisha,2021,3,cuttack,900706
+odisha,2021,3,ganjam,831869
+odisha,2021,3,baleshwar,641826
+odisha,2021,3,jajapur,558822
+odisha,2021,3,sundargarh,520155
+odisha,2021,3,puri,497069
+odisha,2021,3,bhadrak,423068
+odisha,2021,3,kendujhar,410049
+odisha,2021,3,mayurbhanj,371425
+odisha,2020,3,khordha,1232760
+odisha,2020,3,cuttack,676102
+odisha,2020,3,ganjam,611699
+odisha,2020,3,baleshwar,481741
+odisha,2020,3,jajapur,417525
+odisha,2020,3,sundargarh,381666
+odisha,2020,3,puri,369877
+odisha,2020,3,bhadrak,314312
+odisha,2020,3,kendujhar,302384
+odisha,2020,3,mayurbhanj,270844
+odisha,2023,3,khordha,2395932
+odisha,2023,3,cuttack,1349987
+odisha,2023,3,ganjam,1256950
+odisha,2023,3,baleshwar,967259
+odisha,2023,3,jajapur,845882
+odisha,2023,3,sundargarh,783750
+odisha,2023,3,puri,746565
+odisha,2023,3,bhadrak,637667
+odisha,2023,3,kendujhar,624670
+odisha,2023,3,mayurbhanj,568108
+odisha,2018,3,khordha,499472
+odisha,2018,3,cuttack,239067
+odisha,2018,3,ganjam,217114
+odisha,2018,3,baleshwar,180370
+odisha,2018,3,jajapur,149049
+odisha,2018,3,sundargarh,130288
+odisha,2018,3,puri,124859
+odisha,2018,3,kendujhar,108387
+odisha,2018,3,bhadrak,105030
+odisha,2018,3,anugul,97856
+odisha,2019,3,khordha,916565
+odisha,2019,3,cuttack,472851
+odisha,2019,3,ganjam,414068
+odisha,2019,3,baleshwar,329289
+odisha,2019,3,jajapur,290776
+odisha,2019,3,sundargarh,253356
+odisha,2019,3,puri,247141
+odisha,2019,3,bhadrak,208757
+odisha,2019,3,kendujhar,208218
+odisha,2019,3,anugul,187022
+odisha,2022,3,khordha,2025108
+odisha,2022,3,cuttack,1135881
+odisha,2022,3,ganjam,1054407
+odisha,2022,3,baleshwar,812109
+odisha,2022,3,jajapur,709685
+odisha,2022,3,sundargarh,658859
+odisha,2022,3,puri,627710
+odisha,2022,3,bhadrak,535581
+odisha,2022,3,kendujhar,523219
+odisha,2022,3,mayurbhanj,475312
+punjab,2021,3,ludhiana,1296796
+punjab,2021,3,sas nagar,723884
+punjab,2021,3,amritsar,525756
+punjab,2021,3,jalandhar,494582
+punjab,2021,3,patiala,486329
+punjab,2021,3,bathinda,333661
+punjab,2021,3,fazilka,287001
+punjab,2021,3,sangrur,282372
+punjab,2021,3,hoshiarpur,240996
+punjab,2021,3,gurdaspur,217927
+punjab,2020,3,ludhiana,944936
+punjab,2020,3,sas nagar,540527
+punjab,2020,3,amritsar,383166
+punjab,2020,3,jalandhar,359980
+punjab,2020,3,patiala,358126
+punjab,2020,3,bathinda,245674
+punjab,2020,3,fazilka,208929
+punjab,2020,3,sangrur,204491
+punjab,2020,3,hoshiarpur,173002
+punjab,2020,3,gurdaspur,155619
+punjab,2023,3,ludhiana,1957125
+punjab,2023,3,sas nagar,1062990
+punjab,2023,3,amritsar,771321
+punjab,2023,3,jalandhar,732473
+punjab,2023,3,patiala,715678
+punjab,2023,3,bathinda,495871
+punjab,2023,3,fazilka,431814
+punjab,2023,3,sangrur,418793
+punjab,2023,3,hoshiarpur,358108
+punjab,2023,3,gurdaspur,320776
+punjab,2018,3,ludhiana,296414
+punjab,2018,3,sas nagar,201458
+punjab,2018,3,patiala,113902
+punjab,2018,3,amritsar,108935
+punjab,2018,3,jalandhar,104824
+punjab,2018,3,bathinda,88508
+punjab,2018,3,fazilka,73785
+punjab,2018,3,sangrur,64978
+punjab,2018,3,hoshiarpur,45862
+punjab,2018,3,gurdaspur,39920
+punjab,2019,3,ludhiana,601479
+punjab,2019,3,sas nagar,385263
+punjab,2019,3,amritsar,238628
+punjab,2019,3,patiala,229488
+punjab,2019,3,jalandhar,225027
+punjab,2019,3,bathinda,162800
+punjab,2019,3,fazilka,132573
+punjab,2019,3,sangrur,127329
+punjab,2019,3,hoshiarpur,99272
+punjab,2019,3,gurdaspur,87043
+punjab,2022,3,ludhiana,1644780
+punjab,2022,3,sas nagar,904073
+punjab,2022,3,amritsar,656700
+punjab,2022,3,jalandhar,621327
+punjab,2022,3,patiala,608884
+punjab,2022,3,bathinda,420285
+punjab,2022,3,fazilka,363909
+punjab,2022,3,sangrur,355769
+punjab,2022,3,hoshiarpur,303683
+punjab,2022,3,gurdaspur,273518
+delhi,2021,3,west,1785309
+delhi,2021,3,south east delhi,1441462
+delhi,2021,3,north west,1254464
+delhi,2021,3,new delhi,1185588
+delhi,2021,3,central delhi,1184217
+delhi,2021,3,north,1022251
+delhi,2021,3,south west,971552
+delhi,2021,3,east,898137
+delhi,2021,3,south,855177
+delhi,2021,3,shahdara,730209
+delhi,2020,3,west,1343895
+delhi,2020,3,south east delhi,1088989
+delhi,2020,3,north west,946954
+delhi,2020,3,new delhi,912051
+delhi,2020,3,central delhi,888536
+delhi,2020,3,north,763389
+delhi,2020,3,south west,739034
+delhi,2020,3,east,685955
+delhi,2020,3,south,651616
+delhi,2020,3,shahdara,543831
+delhi,2023,3,west,2641529
+delhi,2023,3,south east delhi,2133173
+delhi,2023,3,north west,1866671
+delhi,2023,3,central delhi,1754227
+delhi,2023,3,new delhi,1744588
+delhi,2023,3,north,1528582
+delhi,2023,3,south west,1435544
+delhi,2023,3,east,1322844
+delhi,2023,3,south,1254751
+delhi,2023,3,shahdara,1086372
+delhi,2018,3,west,515854
+delhi,2018,3,south east delhi,423177
+delhi,2018,3,north west,376806
+delhi,2018,3,new delhi,363140
+delhi,2018,3,central delhi,340549
+delhi,2018,3,south west,297663
+delhi,2018,3,north,290251
+delhi,2018,3,east,280847
+delhi,2018,3,south,264628
+delhi,2018,3,shahdara,192430
+delhi,2019,3,west,1008836
+delhi,2019,3,south east delhi,821304
+delhi,2019,3,north west,709448
+delhi,2019,3,new delhi,705546
+delhi,2019,3,central delhi,658985
+delhi,2019,3,south west,567496
+delhi,2019,3,north,554029
+delhi,2019,3,east,532254
+delhi,2019,3,south,498200
+delhi,2019,3,shahdara,391827
+delhi,2022,3,west,2235907
+delhi,2022,3,south east delhi,1804123
+delhi,2022,3,north west,1575473
+delhi,2022,3,central delhi,1483786
+delhi,2022,3,new delhi,1479669
+delhi,2022,3,north,1288507
+delhi,2022,3,south west,1215697
+delhi,2022,3,east,1121596
+delhi,2022,3,south,1065631
+delhi,2022,3,shahdara,917096
+chhattisgarh,2021,3,raipur,917950
+chhattisgarh,2021,3,durg,568361
+chhattisgarh,2021,3,bilaspur,474660
+chhattisgarh,2021,3,raigarh,354087
+chhattisgarh,2021,3,janjgir champa,346366
+chhattisgarh,2021,3,korba,279897
+chhattisgarh,2021,3,rajnandgaon,232140
+chhattisgarh,2021,3,baloda bazar,205941
+chhattisgarh,2021,3,surguja,171276
+chhattisgarh,2021,3,mahasamund,161893
+chhattisgarh,2020,3,raipur,679027
+chhattisgarh,2020,3,durg,426052
+chhattisgarh,2020,3,bilaspur,349586
+chhattisgarh,2020,3,raigarh,259581
+chhattisgarh,2020,3,janjgir champa,254275
+chhattisgarh,2020,3,korba,204448
+chhattisgarh,2020,3,rajnandgaon,166416
+chhattisgarh,2020,3,baloda bazar,150975
+chhattisgarh,2020,3,surguja,124081
+chhattisgarh,2020,3,mahasamund,116370
+chhattisgarh,2023,3,raipur,1360842
+chhattisgarh,2023,3,durg,834591
+chhattisgarh,2023,3,bilaspur,705698
+chhattisgarh,2023,3,raigarh,532938
+chhattisgarh,2023,3,janjgir champa,518847
+chhattisgarh,2023,3,korba,418027
+chhattisgarh,2023,3,rajnandgaon,346368
+chhattisgarh,2023,3,baloda bazar,309128
+chhattisgarh,2023,3,surguja,258533
+chhattisgarh,2023,3,mahasamund,243585
+chhattisgarh,2018,3,raipur,231146
+chhattisgarh,2018,3,durg,150753
+chhattisgarh,2018,3,bilaspur,119415
+chhattisgarh,2018,3,raigarh,89911
+chhattisgarh,2018,3,janjgir champa,77834
+chhattisgarh,2018,3,korba,68746
+chhattisgarh,2018,3,rajnandgaon,50271
+chhattisgarh,2018,3,baloda bazar,43335
+chhattisgarh,2018,3,surguja,40025
+chhattisgarh,2018,3,mahasamund,36628
+chhattisgarh,2019,3,raipur,455785
+chhattisgarh,2019,3,durg,289803
+chhattisgarh,2019,3,bilaspur,230364
+chhattisgarh,2019,3,raigarh,170447
+chhattisgarh,2019,3,janjgir champa,161232
+chhattisgarh,2019,3,korba,131850
+chhattisgarh,2019,3,rajnandgaon,101617
+chhattisgarh,2019,3,baloda bazar,93416
+chhattisgarh,2019,3,surguja,79170
+chhattisgarh,2019,3,mahasamund,72039
+chhattisgarh,2022,3,raipur,1150501
+chhattisgarh,2022,3,durg,707241
+chhattisgarh,2022,3,bilaspur,596003
+chhattisgarh,2022,3,raigarh,448366
+chhattisgarh,2022,3,janjgir champa,436349
+chhattisgarh,2022,3,korba,352198
+chhattisgarh,2022,3,rajnandgaon,292804
+chhattisgarh,2022,3,baloda bazar,260632
+chhattisgarh,2022,3,surguja,217313
+chhattisgarh,2022,3,mahasamund,205270
+kerala,2021,3,ernakulam,1289089
+kerala,2021,3,thiruvananthapuram,878444
+kerala,2021,3,kozhikode,789078
+kerala,2021,3,malappuram,773963
+kerala,2021,3,thrissur,681187
+kerala,2021,3,kannur,568613
+kerala,2021,3,kollam,551267
+kerala,2021,3,palakkad,548776
+kerala,2021,3,alappuzha,471228
+kerala,2021,3,kottayam,445540
+kerala,2020,3,ernakulam,917356
+kerala,2020,3,thiruvananthapuram,624681
+kerala,2020,3,kozhikode,554275
+kerala,2020,3,malappuram,533108
+kerala,2020,3,thrissur,479671
+kerala,2020,3,kannur,400107
+kerala,2020,3,kollam,385866
+kerala,2020,3,palakkad,384712
+kerala,2020,3,alappuzha,330393
+kerala,2020,3,kottayam,311954
+kerala,2023,3,ernakulam,1897604
+kerala,2023,3,thiruvananthapuram,1288756
+kerala,2023,3,kozhikode,1142968
+kerala,2023,3,malappuram,1122286
+kerala,2023,3,thrissur,1000321
+kerala,2023,3,kannur,828310
+kerala,2023,3,kollam,817493
+kerala,2023,3,palakkad,807530
+kerala,2023,3,alappuzha,702662
+kerala,2023,3,kottayam,660585
+kerala,2018,3,ernakulam,263779
+kerala,2018,3,thiruvananthapuram,147475
+kerala,2018,3,kozhikode,136469
+kerala,2018,3,malappuram,134338
+kerala,2018,3,thrissur,115170
+kerala,2018,3,kannur,91537
+kerala,2018,3,palakkad,91071
+kerala,2018,3,kottayam,77331
+kerala,2018,3,kollam,77192
+kerala,2018,3,alappuzha,71052
+kerala,2019,3,ernakulam,553200
+kerala,2019,3,thiruvananthapuram,340900
+kerala,2019,3,kozhikode,294333
+kerala,2019,3,malappuram,282514
+kerala,2019,3,thrissur,259366
+kerala,2019,3,kannur,204129
+kerala,2019,3,palakkad,202761
+kerala,2019,3,kollam,183743
+kerala,2019,3,kottayam,169581
+kerala,2019,3,alappuzha,166845
+kerala,2022,3,ernakulam,1611052
+kerala,2022,3,thiruvananthapuram,1095580
+kerala,2022,3,kozhikode,978992
+kerala,2022,3,malappuram,961854
+kerala,2022,3,thrissur,851462
+kerala,2022,3,kannur,708205
+kerala,2022,3,kollam,692226
+kerala,2022,3,palakkad,687131
+kerala,2022,3,alappuzha,593932
+kerala,2022,3,kottayam,560099
+maharashtra,2021,3,pune,7398336
+maharashtra,2021,3,thane,4597394
+maharashtra,2021,3,mumbai suburban,4444495
+maharashtra,2021,3,nashik,2352259
+maharashtra,2021,3,nagpur,2020264
+maharashtra,2021,3,aurangabad,1671665
+maharashtra,2021,3,mumbai,1659663
+maharashtra,2021,3,ahmednagar,1539300
+maharashtra,2021,3,palghar,1410321
+maharashtra,2021,3,solapur,1380100
+maharashtra,2020,3,pune,5546002
+maharashtra,2020,3,thane,3401853
+maharashtra,2020,3,mumbai suburban,3304696
+maharashtra,2020,3,nashik,1752191
+maharashtra,2020,3,nagpur,1502777
+maharashtra,2020,3,aurangabad,1244879
+maharashtra,2020,3,mumbai,1234355
+maharashtra,2020,3,ahmednagar,1123648
+maharashtra,2020,3,palghar,1034468
+maharashtra,2020,3,solapur,1012518
+maharashtra,2023,3,pune,10780092
+maharashtra,2023,3,thane,6802106
+maharashtra,2023,3,mumbai suburban,6560867
+maharashtra,2023,3,nashik,3481028
+maharashtra,2023,3,nagpur,2995471
+maharashtra,2023,3,aurangabad,2485041
+maharashtra,2023,3,mumbai,2450770
+maharashtra,2023,3,ahmednagar,2297997
+maharashtra,2023,3,palghar,2118552
+maharashtra,2023,3,solapur,2050042
+maharashtra,2018,3,pune,1974138
+maharashtra,2018,3,mumbai suburban,1218632
+maharashtra,2018,3,thane,1104206
+maharashtra,2018,3,nashik,552556
+maharashtra,2018,3,nagpur,487280
+maharashtra,2018,3,aurangabad,428394
+maharashtra,2018,3,mumbai,410878
+maharashtra,2018,3,ahmednagar,344804
+maharashtra,2018,3,solapur,331428
+maharashtra,2018,3,palghar,312322
+maharashtra,2019,3,pune,4004991
+maharashtra,2019,3,mumbai suburban,2407754
+maharashtra,2019,3,thane,2396815
+maharashtra,2019,3,nashik,1155897
+maharashtra,2019,3,nagpur,1015333
+maharashtra,2019,3,mumbai,889541
+maharashtra,2019,3,aurangabad,841802
+maharashtra,2019,3,ahmednagar,705492
+maharashtra,2019,3,palghar,691229
+maharashtra,2019,3,raigad,679155
+maharashtra,2022,3,pune,9194074
+maharashtra,2022,3,thane,5757165
+maharashtra,2022,3,mumbai suburban,5555095
+maharashtra,2022,3,nashik,2948824
+maharashtra,2022,3,nagpur,2532986
+maharashtra,2022,3,aurangabad,2101234
+maharashtra,2022,3,mumbai,2074701
+maharashtra,2022,3,ahmednagar,1940071
+maharashtra,2022,3,palghar,1781265
+maharashtra,2022,3,solapur,1733556
+tamil-nadu,2021,3,chennai,2124347
+tamil-nadu,2021,3,thiruvallur,1744228
+tamil-nadu,2021,3,coimbatore,1494350
+tamil-nadu,2021,3,chengalpattu,1438295
+tamil-nadu,2021,3,kancheepuram,1025651
+tamil-nadu,2021,3,tiruppur,891753
+tamil-nadu,2021,3,salem,798213
+tamil-nadu,2021,3,madurai,725021
+tamil-nadu,2021,3,krishnagiri,683549
+tamil-nadu,2021,3,tiruchirappalli,607438
+tamil-nadu,2020,3,chennai,1566152
+tamil-nadu,2020,3,thiruvallur,1260923
+tamil-nadu,2020,3,coimbatore,1073680
+tamil-nadu,2020,3,chengalpattu,1064263
+tamil-nadu,2020,3,kancheepuram,744437
+tamil-nadu,2020,3,tiruppur,625391
+tamil-nadu,2020,3,salem,564858
+tamil-nadu,2020,3,madurai,516447
+tamil-nadu,2020,3,krishnagiri,480568
+tamil-nadu,2020,3,tiruchirappalli,433221
+tamil-nadu,2023,3,chennai,3098864
+tamil-nadu,2023,3,thiruvallur,2582607
+tamil-nadu,2023,3,coimbatore,2200165
+tamil-nadu,2023,3,chengalpattu,2109212
+tamil-nadu,2023,3,kancheepuram,1519225
+tamil-nadu,2023,3,tiruppur,1341973
+tamil-nadu,2023,3,salem,1191010
+tamil-nadu,2023,3,madurai,1076620
+tamil-nadu,2023,3,krishnagiri,1023066
+tamil-nadu,2023,3,tiruchirappalli,903048
+tamil-nadu,2018,3,chennai,511138
+tamil-nadu,2018,3,thiruvallur,381620
+tamil-nadu,2018,3,chengalpattu,368413
+tamil-nadu,2018,3,coimbatore,318461
+tamil-nadu,2018,3,kancheepuram,239985
+tamil-nadu,2018,3,tiruppur,172195
+tamil-nadu,2018,3,salem,164489
+tamil-nadu,2018,3,madurai,138064
+tamil-nadu,2018,3,krishnagiri,128769
+tamil-nadu,2018,3,tiruchirappalli,119661
+tamil-nadu,2019,3,chennai,1090190
+tamil-nadu,2019,3,thiruvallur,828137
+tamil-nadu,2019,3,chengalpattu,744424
+tamil-nadu,2019,3,coimbatore,669547
+tamil-nadu,2019,3,kancheepuram,503192
+tamil-nadu,2019,3,tiruppur,371296
+tamil-nadu,2019,3,salem,342259
+tamil-nadu,2019,3,madurai,305793
+tamil-nadu,2019,3,krishnagiri,290478
+tamil-nadu,2019,3,tiruchirappalli,261919
+tamil-nadu,2022,3,chennai,2635738
+tamil-nadu,2022,3,thiruvallur,2183990
+tamil-nadu,2022,3,coimbatore,1867655
+tamil-nadu,2022,3,chengalpattu,1791530
+tamil-nadu,2022,3,kancheepuram,1284243
+tamil-nadu,2022,3,tiruppur,1128474
+tamil-nadu,2022,3,salem,1005031
+tamil-nadu,2022,3,madurai,910111
+tamil-nadu,2022,3,krishnagiri,862231
+tamil-nadu,2022,3,tiruchirappalli,763327
+puducherry,2021,3,puducherry,332193
+puducherry,2021,3,karaikal,39011
+puducherry,2021,3,yanam,14823
+puducherry,2021,3,mahe,10582
+puducherry,2020,3,puducherry,239707
+puducherry,2020,3,karaikal,26910
+puducherry,2020,3,yanam,11054
+puducherry,2020,3,mahe,7502
+puducherry,2023,3,puducherry,491130
+puducherry,2023,3,karaikal,58040
+puducherry,2023,3,yanam,22161
+puducherry,2023,3,mahe,15219
+puducherry,2018,3,puducherry,68634
+puducherry,2018,3,karaikal,7174
+puducherry,2018,3,yanam,3926
+puducherry,2018,3,mahe,1812
+puducherry,2019,3,puducherry,150642
+puducherry,2019,3,karaikal,15875
+puducherry,2019,3,yanam,7342
+puducherry,2019,3,mahe,4009
+puducherry,2022,3,puducherry,415847
+puducherry,2022,3,karaikal,49034
+puducherry,2022,3,yanam,18606
+puducherry,2022,3,mahe,13083
+goa,2021,3,north goa,403952
+goa,2021,3,south goa,249506
+goa,2020,3,north goa,294195
+goa,2020,3,south goa,180767
+goa,2023,3,north goa,593176
+goa,2023,3,south goa,368655
+goa,2018,3,north goa,95307
+goa,2018,3,south goa,58495
+goa,2019,3,north goa,197361
+goa,2019,3,south goa,119833
+goa,2022,3,north goa,504946
+goa,2022,3,south goa,312884
+tripura,2021,3,west tripura,202122
+tripura,2021,3,sepahijala,54797
+tripura,2021,3,south tripura,54747
+tripura,2021,3,north tripura,51321
+tripura,2021,3,gomati,46535
+tripura,2021,3,dhalai,40679
+tripura,2021,3,khowai,31900
+tripura,2021,3,unakoti,27828
+tripura,2020,3,west tripura,151432
+tripura,2020,3,south tripura,40797
+tripura,2020,3,sepahijala,39970
+tripura,2020,3,north tripura,37284
+tripura,2020,3,gomati,34073
+tripura,2020,3,dhalai,29515
+tripura,2020,3,khowai,23565
+tripura,2020,3,unakoti,20095
+tripura,2023,3,west tripura,303494
+tripura,2023,3,sepahijala,84329
+tripura,2023,3,south tripura,83713
+tripura,2023,3,north tripura,78079
+tripura,2023,3,gomati,71255
+tripura,2023,3,dhalai,62353
+tripura,2023,3,khowai,48652
+tripura,2023,3,unakoti,42803
+tripura,2018,3,west tripura,53531
+tripura,2018,3,south tripura,12286
+tripura,2018,3,sepahijala,10803
+tripura,2018,3,gomati,10168
+tripura,2018,3,north tripura,9771
+tripura,2018,3,dhalai,8039
+tripura,2018,3,khowai,6816
+tripura,2018,3,unakoti,5460
+tripura,2019,3,west tripura,104949
+tripura,2019,3,south tripura,26573
+tripura,2019,3,sepahijala,24332
+tripura,2019,3,north tripura,22522
+tripura,2019,3,gomati,21722
+tripura,2019,3,dhalai,18140
+tripura,2019,3,khowai,15092
+tripura,2019,3,unakoti,12126
+tripura,2022,3,west tripura,255161
+tripura,2022,3,sepahijala,70255
+tripura,2022,3,south tripura,70107
+tripura,2022,3,north tripura,65452
+tripura,2022,3,gomati,59506
+tripura,2022,3,dhalai,52074
+tripura,2022,3,khowai,40758
+tripura,2022,3,unakoti,35830
+gujarat,2021,3,ahmadabad,3445024
+gujarat,2021,3,surat,2830392
+gujarat,2021,3,vadodara,1210266
+gujarat,2021,3,rajkot,782611
+gujarat,2021,3,gandhinagar,706654
+gujarat,2021,3,banas kantha,698841
+gujarat,2021,3,bharuch,634589
+gujarat,2021,3,kachchh,587589
+gujarat,2021,3,mahesana,578072
+gujarat,2021,3,valsad,565423
+gujarat,2020,3,ahmadabad,2580178
+gujarat,2020,3,surat,2092712
+gujarat,2020,3,vadodara,901492
+gujarat,2020,3,rajkot,573062
+gujarat,2020,3,gandhinagar,529771
+gujarat,2020,3,banas kantha,501471
+gujarat,2020,3,bharuch,462292
+gujarat,2020,3,mahesana,427950
+gujarat,2020,3,kachchh,423729
+gujarat,2020,3,valsad,410740
+gujarat,2023,3,ahmadabad,5105557
+gujarat,2023,3,surat,4238878
+gujarat,2023,3,vadodara,1789238
+gujarat,2023,3,rajkot,1167848
+gujarat,2023,3,banas kantha,1074757
+gujarat,2023,3,gandhinagar,1044993
+gujarat,2023,3,bharuch,955541
+gujarat,2023,3,kachchh,888857
+gujarat,2023,3,mahesana,864845
+gujarat,2023,3,valsad,852301
+gujarat,2018,3,ahmadabad,919252
+gujarat,2018,3,surat,808005
+gujarat,2018,3,vadodara,335125
+gujarat,2018,3,rajkot,215459
+gujarat,2018,3,gandhinagar,190882
+gujarat,2018,3,bharuch,169322
+gujarat,2018,3,banas kantha,159591
+gujarat,2018,3,kachchh,158762
+gujarat,2018,3,mahesana,157274
+gujarat,2018,3,bhavnagar,141243
+gujarat,2019,3,ahmadabad,1848860
+gujarat,2019,3,surat,1481391
+gujarat,2019,3,vadodara,637678
+gujarat,2019,3,rajkot,384852
+gujarat,2019,3,gandhinagar,372464
+gujarat,2019,3,bharuch,315856
+gujarat,2019,3,banas kantha,301373
+gujarat,2019,3,mahesana,286652
+gujarat,2019,3,kachchh,285519
+gujarat,2019,3,valsad,266134
+gujarat,2022,3,ahmadabad,4319512
+gujarat,2022,3,surat,3567767
+gujarat,2022,3,vadodara,1515556
+gujarat,2022,3,rajkot,986904
+gujarat,2022,3,banas kantha,896869
+gujarat,2022,3,gandhinagar,885535
+gujarat,2022,3,bharuch,803845
+gujarat,2022,3,kachchh,747079
+gujarat,2022,3,mahesana,729723
+gujarat,2022,3,valsad,716467
+bihar,2021,3,patna,2156402
+bihar,2021,3,muzaffarpur,842701
+bihar,2021,3,purbi champaran,794120
+bihar,2021,3,gaya,673356
+bihar,2021,3,pashchim champaran,602251
+bihar,2021,3,saran,588276
+bihar,2021,3,madhubani,587337
+bihar,2021,3,samastipur,586990
+bihar,2021,3,darbhanga,586251
+bihar,2021,3,vaishali,536933
+bihar,2020,3,patna,1625305
+bihar,2020,3,muzaffarpur,617383
+bihar,2020,3,purbi champaran,570592
+bihar,2020,3,gaya,493207
+bihar,2020,3,pashchim champaran,435319
+bihar,2020,3,madhubani,425154
+bihar,2020,3,saran,424821
+bihar,2020,3,samastipur,424696
+bihar,2020,3,darbhanga,424611
+bihar,2020,3,vaishali,391002
+bihar,2023,3,patna,3224750
+bihar,2023,3,muzaffarpur,1287940
+bihar,2023,3,purbi champaran,1234014
+bihar,2023,3,gaya,1028527
+bihar,2023,3,pashchim champaran,934834
+bihar,2023,3,saran,908065
+bihar,2023,3,samastipur,905652
+bihar,2023,3,madhubani,901607
+bihar,2023,3,darbhanga,896190
+bihar,2023,3,vaishali,824848
+bihar,2018,3,patna,684421
+bihar,2018,3,muzaffarpur,211519
+bihar,2018,3,purbi champaran,162122
+bihar,2018,3,gaya,160375
+bihar,2018,3,samastipur,134680
+bihar,2018,3,darbhanga,132803
+bihar,2018,3,bhagalpur,131270
+bihar,2018,3,nalanda,128472
+bihar,2018,3,pashchim champaran,124955
+bihar,2018,3,saran,123407
+bihar,2019,3,patna,1180262
+bihar,2019,3,muzaffarpur,396343
+bihar,2019,3,purbi champaran,330361
+bihar,2019,3,gaya,315649
+bihar,2019,3,samastipur,262875
+bihar,2019,3,darbhanga,262421
+bihar,2019,3,saran,260966
+bihar,2019,3,pashchim champaran,256491
+bihar,2019,3,madhubani,255761
+bihar,2019,3,bhagalpur,249214
+bihar,2022,3,patna,2716533
+bihar,2022,3,muzaffarpur,1077200
+bihar,2022,3,purbi champaran,1025772
+bihar,2022,3,gaya,859903
+bihar,2022,3,pashchim champaran,777977
+bihar,2022,3,saran,756293
+bihar,2022,3,samastipur,754322
+bihar,2022,3,madhubani,753153
+bihar,2022,3,darbhanga,749430
+bihar,2022,3,vaishali,688248
+assam,2021,3,kamrup metropolitan,677223
+assam,2021,3,nagaon,233909
+assam,2021,3,barpeta,207997
+assam,2021,3,cachar,200721
+assam,2021,3,sonitpur,184448
+assam,2021,3,dibrugarh,184280
+assam,2021,3,kamrup,172652
+assam,2021,3,tinsukia,156657
+assam,2021,3,jorhat,135179
+assam,2021,3,dhubri,119554
+assam,2020,3,kamrup metropolitan,499403
+assam,2020,3,nagaon,168903
+assam,2020,3,barpeta,150166
+assam,2020,3,cachar,143851
+assam,2020,3,dibrugarh,134339
+assam,2020,3,sonitpur,134006
+assam,2020,3,kamrup,124944
+assam,2020,3,tinsukia,113239
+assam,2020,3,jorhat,99517
+assam,2020,3,dhubri,84816
+assam,2023,3,kamrup metropolitan,1014178
+assam,2023,3,nagaon,360999
+assam,2023,3,barpeta,321557
+assam,2023,3,cachar,308182
+assam,2023,3,sonitpur,281112
+assam,2023,3,dibrugarh,278740
+assam,2023,3,kamrup,265357
+assam,2023,3,tinsukia,239058
+assam,2023,3,jorhat,204393
+assam,2023,3,dhubri,186435
+assam,2018,3,kamrup metropolitan,164101
+assam,2018,3,barpeta,41158
+assam,2018,3,cachar,40888
+assam,2018,3,dibrugarh,40711
+assam,2018,3,nagaon,40687
+assam,2018,3,sonitpur,38797
+assam,2018,3,kamrup,33197
+assam,2018,3,tinsukia,32870
+assam,2018,3,jorhat,32134
+assam,2018,3,dhubri,22705
+assam,2019,3,kamrup metropolitan,340588
+assam,2019,3,nagaon,100993
+assam,2019,3,barpeta,92001
+assam,2019,3,cachar,88048
+assam,2019,3,dibrugarh,84029
+assam,2019,3,sonitpur,83930
+assam,2019,3,kamrup,75174
+assam,2019,3,tinsukia,68999
+assam,2019,3,jorhat,63858
+assam,2019,3,dhubri,48953
+assam,2022,3,kamrup metropolitan,854019
+assam,2022,3,nagaon,300653
+assam,2022,3,barpeta,267667
+assam,2022,3,cachar,257370
+assam,2022,3,sonitpur,235752
+assam,2022,3,dibrugarh,234149
+assam,2022,3,kamrup,221721
+assam,2022,3,tinsukia,199942
+assam,2022,3,jorhat,171824
+assam,2022,3,dhubri,154896
+uttarakhand,2021,3,dehradun,963594
+uttarakhand,2021,3,haridwar,669249
+uttarakhand,2021,3,udham singh nagar,568881
+uttarakhand,2021,3,nainital,309820
+uttarakhand,2021,3,pauri garhwal,155054
+uttarakhand,2021,3,tehri garhwal,119032
+uttarakhand,2021,3,almora,102118
+uttarakhand,2021,3,pithoragarh,84476
+uttarakhand,2021,3,chamoli,73432
+uttarakhand,2021,3,uttarkashi,59174
+uttarakhand,2020,3,dehradun,711303
+uttarakhand,2020,3,haridwar,491252
+uttarakhand,2020,3,udham singh nagar,418390
+uttarakhand,2020,3,nainital,227497
+uttarakhand,2020,3,pauri garhwal,112287
+uttarakhand,2020,3,tehri garhwal,85276
+uttarakhand,2020,3,almora,72829
+uttarakhand,2020,3,pithoragarh,60279
+uttarakhand,2020,3,chamoli,52184
+uttarakhand,2020,3,uttarkashi,42144
+uttarakhand,2023,3,dehradun,1419173
+uttarakhand,2023,3,haridwar,1003648
+uttarakhand,2023,3,udham singh nagar,858970
+uttarakhand,2023,3,nainital,460046
+uttarakhand,2023,3,pauri garhwal,232186
+uttarakhand,2023,3,tehri garhwal,179437
+uttarakhand,2023,3,almora,153779
+uttarakhand,2023,3,pithoragarh,127530
+uttarakhand,2023,3,chamoli,110883
+uttarakhand,2023,3,uttarkashi,89519
+uttarakhand,2018,3,dehradun,246477
+uttarakhand,2018,3,haridwar,174526
+uttarakhand,2018,3,udham singh nagar,162754
+uttarakhand,2018,3,nainital,79936
+uttarakhand,2018,3,pauri garhwal,36059
+uttarakhand,2018,3,tehri garhwal,23575
+uttarakhand,2018,3,almora,20152
+uttarakhand,2018,3,pithoragarh,16483
+uttarakhand,2018,3,chamoli,14112
+uttarakhand,2018,3,uttarkashi,10793
+uttarakhand,2019,3,dehradun,486157
+uttarakhand,2019,3,haridwar,334619
+uttarakhand,2019,3,udham singh nagar,292858
+uttarakhand,2019,3,nainital,153561
+uttarakhand,2019,3,pauri garhwal,73363
+uttarakhand,2019,3,tehri garhwal,52090
+uttarakhand,2019,3,almora,44182
+uttarakhand,2019,3,pithoragarh,36353
+uttarakhand,2019,3,chamoli,32036
+uttarakhand,2019,3,uttarkashi,25151
+uttarakhand,2022,3,dehradun,1205785
+uttarakhand,2022,3,haridwar,846066
+uttarakhand,2022,3,udham singh nagar,722008
+uttarakhand,2022,3,nainital,389791
+uttarakhand,2022,3,pauri garhwal,196481
+uttarakhand,2022,3,tehri garhwal,151445
+uttarakhand,2022,3,almora,129898
+uttarakhand,2022,3,pithoragarh,107498
+uttarakhand,2022,3,chamoli,93488
+uttarakhand,2022,3,uttarkashi,75369
+manipur,2021,3,imphal west,110506
+manipur,2021,3,imphal east,71436
+manipur,2021,3,thoubal,33478
+manipur,2021,3,bishnupur,31996
+manipur,2021,3,churachandpur,27600
+manipur,2021,3,kangpokpi,22416
+manipur,2021,3,kakching,14924
+manipur,2021,3,ukhrul,11045
+manipur,2021,3,tamenglong,9326
+manipur,2021,3,chandel,7597
+manipur,2020,3,imphal west,79723
+manipur,2020,3,imphal east,51383
+manipur,2020,3,thoubal,24183
+manipur,2020,3,bishnupur,22965
+manipur,2020,3,churachandpur,19501
+manipur,2020,3,kangpokpi,15966
+manipur,2020,3,kakching,10752
+manipur,2020,3,ukhrul,7657
+manipur,2020,3,tamenglong,6475
+manipur,2020,3,chandel,5252
+manipur,2023,3,imphal west,164350
+manipur,2023,3,imphal east,106699
+manipur,2023,3,thoubal,50179
+manipur,2023,3,bishnupur,47895
+manipur,2023,3,churachandpur,41799
+manipur,2023,3,kangpokpi,33690
+manipur,2023,3,kakching,22516
+manipur,2023,3,ukhrul,16460
+manipur,2023,3,tamenglong,14077
+manipur,2023,3,chandel,11414
+manipur,2018,3,imphal west,21696
+manipur,2018,3,imphal east,13541
+manipur,2018,3,thoubal,6112
+manipur,2018,3,bishnupur,5106
+manipur,2018,3,churachandpur,3420
+manipur,2018,3,kangpokpi,3073
+manipur,2018,3,kakching,2326
+manipur,2018,3,ukhrul,1346
+manipur,2018,3,tamenglong,1268
+manipur,2018,3,jiribam,1086
+manipur,2019,3,imphal west,45268
+manipur,2019,3,imphal east,28331
+manipur,2019,3,thoubal,12427
+manipur,2019,3,bishnupur,11647
+manipur,2019,3,churachandpur,9071
+manipur,2019,3,kangpokpi,7621
+manipur,2019,3,kakching,5355
+manipur,2019,3,ukhrul,3488
+manipur,2019,3,tamenglong,3085
+manipur,2019,3,chandel,2581
+manipur,2022,3,imphal west,138892
+manipur,2022,3,imphal east,90100
+manipur,2022,3,thoubal,42321
+manipur,2022,3,bishnupur,40486
+manipur,2022,3,churachandpur,35081
+manipur,2022,3,kangpokpi,28377
+manipur,2022,3,kakching,18979
+manipur,2022,3,ukhrul,14002
+manipur,2022,3,tamenglong,11830
+manipur,2022,3,chandel,9647
+andhra-pradesh,2021,3,visakhapatnam,2707931
+andhra-pradesh,2021,3,east godavari,2150622
+andhra-pradesh,2021,3,krishna,2145423
+andhra-pradesh,2021,3,guntur,2110878
+andhra-pradesh,2021,3,chittoor,2007011
+andhra-pradesh,2021,3,anantapur,1606735
+andhra-pradesh,2021,3,kurnool,1522196
+andhra-pradesh,2021,3,west godavari,1436576
+andhra-pradesh,2021,3,spsr nellore,1263550
+andhra-pradesh,2021,3,prakasam,1239147
+andhra-pradesh,2020,3,visakhapatnam,2058346
+andhra-pradesh,2020,3,east godavari,1601940
+andhra-pradesh,2020,3,krishna,1599289
+andhra-pradesh,2020,3,guntur,1567595
+andhra-pradesh,2020,3,chittoor,1506503
+andhra-pradesh,2020,3,anantapur,1186851
+andhra-pradesh,2020,3,kurnool,1132240
+andhra-pradesh,2020,3,west godavari,1053674
+andhra-pradesh,2020,3,spsr nellore,937176
+andhra-pradesh,2020,3,prakasam,915240
+andhra-pradesh,2023,3,visakhapatnam,4035323
+andhra-pradesh,2023,3,east godavari,3211557
+andhra-pradesh,2023,3,krishna,3177643
+andhra-pradesh,2023,3,guntur,3137289
+andhra-pradesh,2023,3,chittoor,2981337
+andhra-pradesh,2023,3,anantapur,2421293
+andhra-pradesh,2023,3,kurnool,2295754
+andhra-pradesh,2023,3,west godavari,2146530
+andhra-pradesh,2023,3,spsr nellore,1887005
+andhra-pradesh,2023,3,prakasam,1868997
+andhra-pradesh,2018,3,visakhapatnam,769096
+andhra-pradesh,2018,3,east godavari,558982
+andhra-pradesh,2018,3,krishna,537086
+andhra-pradesh,2018,3,guntur,518931
+andhra-pradesh,2018,3,chittoor,515727
+andhra-pradesh,2018,3,anantapur,405855
+andhra-pradesh,2018,3,kurnool,394311
+andhra-pradesh,2018,3,west godavari,349782
+andhra-pradesh,2018,3,spsr nellore,322446
+andhra-pradesh,2018,3,prakasam,314899
+andhra-pradesh,2019,3,visakhapatnam,1460464
+andhra-pradesh,2019,3,krishna,1066546
+andhra-pradesh,2019,3,east godavari,1057167
+andhra-pradesh,2019,3,chittoor,1032733
+andhra-pradesh,2019,3,guntur,1026418
+andhra-pradesh,2019,3,anantapur,773656
+andhra-pradesh,2019,3,kurnool,755024
+andhra-pradesh,2019,3,west godavari,662102
+andhra-pradesh,2019,3,spsr nellore,619592
+andhra-pradesh,2019,3,prakasam,598568
+andhra-pradesh,2022,3,visakhapatnam,3397514
+andhra-pradesh,2022,3,east godavari,2702234
+andhra-pradesh,2022,3,krishna,2685215
+andhra-pradesh,2022,3,guntur,2647100
+andhra-pradesh,2022,3,chittoor,2517657
+andhra-pradesh,2022,3,anantapur,2030824
+andhra-pradesh,2022,3,kurnool,1924127
+andhra-pradesh,2022,3,west godavari,1805967
+andhra-pradesh,2022,3,spsr nellore,1588875
+andhra-pradesh,2022,3,prakasam,1567520
+rajasthan,2021,3,jaipur,4534297
+rajasthan,2021,3,alwar,1374586
+rajasthan,2021,3,jodhpur,1202937
+rajasthan,2021,3,sikar,892015
+rajasthan,2021,3,ajmer,835375
+rajasthan,2021,3,nagaur,787565
+rajasthan,2021,3,kota,777099
+rajasthan,2021,3,bhilwara,760232
+rajasthan,2021,3,udaipur,716657
+rajasthan,2021,3,jhunjhunu,660246
+rajasthan,2020,3,jaipur,3433167
+rajasthan,2020,3,alwar,1008033
+rajasthan,2020,3,jodhpur,870849
+rajasthan,2020,3,sikar,652190
+rajasthan,2020,3,ajmer,605298
+rajasthan,2020,3,kota,577117
+rajasthan,2020,3,nagaur,564788
+rajasthan,2020,3,bhilwara,548564
+rajasthan,2020,3,udaipur,522695
+rajasthan,2020,3,jhunjhunu,484411
+rajasthan,2023,3,jaipur,6745507
+rajasthan,2023,3,alwar,2100632
+rajasthan,2023,3,jodhpur,1793526
+rajasthan,2023,3,sikar,1350861
+rajasthan,2023,3,ajmer,1240780
+rajasthan,2023,3,nagaur,1190241
+rajasthan,2023,3,kota,1170118
+rajasthan,2023,3,bhilwara,1161222
+rajasthan,2023,3,udaipur,1075658
+rajasthan,2023,3,jhunjhunu,998478
+rajasthan,2018,3,jaipur,1438305
+rajasthan,2018,3,alwar,345018
+rajasthan,2018,3,jodhpur,278965
+rajasthan,2018,3,kota,218406
+rajasthan,2018,3,sikar,216465
+rajasthan,2018,3,ajmer,193489
+rajasthan,2018,3,bhilwara,184376
+rajasthan,2018,3,udaipur,176698
+rajasthan,2018,3,nagaur,170749
+rajasthan,2018,3,jhunjhunu,162942
+rajasthan,2019,3,jaipur,2520933
+rajasthan,2019,3,alwar,666462
+rajasthan,2019,3,jodhpur,557784
+rajasthan,2019,3,sikar,412367
+rajasthan,2019,3,kota,399776
+rajasthan,2019,3,ajmer,378921
+rajasthan,2019,3,bhilwara,352747
+rajasthan,2019,3,nagaur,337197
+rajasthan,2019,3,udaipur,336408
+rajasthan,2019,3,jhunjhunu,307034
+rajasthan,2022,3,jaipur,5696726
+rajasthan,2022,3,alwar,1755844
+rajasthan,2022,3,jodhpur,1517702
+rajasthan,2022,3,sikar,1133443
+rajasthan,2022,3,ajmer,1050146
+rajasthan,2022,3,nagaur,1001401
+rajasthan,2022,3,kota,982248
+rajasthan,2022,3,bhilwara,971352
+rajasthan,2022,3,udaipur,908034
+rajasthan,2022,3,jhunjhunu,839052
+haryana,2021,3,gurugram,2589324
+haryana,2021,3,faridabad,1459758
+haryana,2021,3,hisar,606513
+haryana,2021,3,sonipat,549613
+haryana,2021,3,rewari,522734
+haryana,2021,3,panipat,489226
+haryana,2021,3,karnal,464990
+haryana,2021,3,jhajjar,390612
+haryana,2021,3,palwal,387557
+haryana,2021,3,rohtak,380370
+haryana,2020,3,gurugram,1949331
+haryana,2020,3,faridabad,1094570
+haryana,2020,3,hisar,453910
+haryana,2020,3,sonipat,402001
+haryana,2020,3,rewari,388025
+haryana,2020,3,panipat,357830
+haryana,2020,3,karnal,344289
+haryana,2020,3,palwal,285223
+haryana,2020,3,jhajjar,284852
+haryana,2020,3,rohtak,280325
+haryana,2023,3,gurugram,3846607
+haryana,2023,3,faridabad,2177737
+haryana,2023,3,hisar,913340
+haryana,2023,3,sonipat,828230
+haryana,2023,3,rewari,788131
+haryana,2023,3,panipat,735266
+haryana,2023,3,karnal,690422
+haryana,2023,3,jhajjar,591881
+haryana,2023,3,palwal,585232
+haryana,2023,3,rohtak,570001
+haryana,2018,3,gurugram,767369
+haryana,2018,3,faridabad,383316
+haryana,2018,3,hisar,176380
+haryana,2018,3,rewari,138368
+haryana,2018,3,sonipat,132705
+haryana,2018,3,panipat,124290
+haryana,2018,3,karnal,121471
+haryana,2018,3,sirsa,109165
+haryana,2018,3,rohtak,101649
+haryana,2018,3,ambala,92472
+haryana,2019,3,gurugram,1447473
+haryana,2019,3,faridabad,792884
+haryana,2019,3,hisar,308179
+haryana,2019,3,rewari,266893
+haryana,2019,3,sonipat,261554
+haryana,2019,3,panipat,235346
+haryana,2019,3,karnal,230603
+haryana,2019,3,rohtak,190137
+haryana,2019,3,palwal,188217
+haryana,2019,3,jhajjar,185095
+haryana,2022,3,gurugram,3251792
+haryana,2022,3,faridabad,1837594
+haryana,2022,3,hisar,766206
+haryana,2022,3,sonipat,697349
+haryana,2022,3,rewari,663418
+haryana,2022,3,panipat,618937
+haryana,2022,3,karnal,584928
+haryana,2022,3,jhajjar,497580
+haryana,2022,3,palwal,492837
+haryana,2022,3,rohtak,481082
+mizoram,2021,3,aizawl,52313
+mizoram,2021,3,lunglei,12614
+mizoram,2021,3,lawngtlai,9954
+mizoram,2021,3,kolasib,7229
+mizoram,2021,3,champhai,5935
+mizoram,2021,3,mamit,5392
+mizoram,2021,3,serchhip,4255
+mizoram,2021,3,saiha,2955
+mizoram,2020,3,aizawl,36225
+mizoram,2020,3,lunglei,8442
+mizoram,2020,3,lawngtlai,6412
+mizoram,2020,3,kolasib,4923
+mizoram,2020,3,champhai,3883
+mizoram,2020,3,mamit,3597
+mizoram,2020,3,serchhip,2871
+mizoram,2020,3,saiha,1962
+mizoram,2023,3,aizawl,78038
+mizoram,2023,3,lunglei,19056
+mizoram,2023,3,lawngtlai,15259
+mizoram,2023,3,kolasib,11036
+mizoram,2023,3,champhai,8968
+mizoram,2023,3,mamit,8205
+mizoram,2023,3,serchhip,6340
+mizoram,2023,3,saiha,4476
+mizoram,2018,3,aizawl,8460
+mizoram,2018,3,lunglei,1751
+mizoram,2018,3,kolasib,1012
+mizoram,2018,3,lawngtlai,922
+mizoram,2018,3,champhai,729
+mizoram,2018,3,serchhip,633
+mizoram,2018,3,mamit,599
+mizoram,2018,3,saiha,396
+mizoram,2019,3,aizawl,18992
+mizoram,2019,3,lunglei,4197
+mizoram,2019,3,lawngtlai,2647
+mizoram,2019,3,kolasib,2497
+mizoram,2019,3,champhai,1733
+mizoram,2019,3,mamit,1655
+mizoram,2019,3,serchhip,1512
+mizoram,2019,3,saiha,901
+mizoram,2022,3,aizawl,65940
+mizoram,2022,3,lunglei,16062
+mizoram,2022,3,lawngtlai,12771
+mizoram,2022,3,kolasib,9300
+mizoram,2022,3,champhai,7576
+mizoram,2022,3,mamit,6931
+mizoram,2022,3,serchhip,5390
+mizoram,2022,3,saiha,3765
