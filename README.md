@@ -6,4 +6,4 @@ Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Str
 
 ### Dashboard Pic
 
-![image](Phonepe_PBI.png)
+![image](https://github.com/MuralidharanDeepa/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Phonepe_PBI.png)
