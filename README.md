@@ -1,9 +1,8 @@
 # Phonepe Revenue Analysis 
 
 
-  ![image](https://github.com/praveendecode/phonepe_pulse/assets/95226524/24048113-5ef7-449c-9c7d-6f6cd78c98bd)
+  ![image](https://github.com/MuralidharanDeepa/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Phnpe_read.jpg)
  
-
 
 # Overview
 
