@@ -1,8 +1,7 @@
 # Phonepe Revenue Analysis 
 
 
-  ![image](https://github.com/MuralidharanDeepa/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Phnpe_read.jpg)
- 
+  ![image](https://github.com/MuralidharanDeepa/Phonepe-Pulse-Data-Visualization-and-Exploration/blob/main/Phonepe_read.jpg?raw=true)
 
 # Overview
 
@@ -15,11 +14,11 @@
        
   - Data Transformation: Cleans and processes the data using Python and Pandas.
        
-  - Database Integration: Stores the cleaned data in a PostgreSQL database for efficient retrieval.
+  - Database Integration: Stores the cleaned data in a MySQL database for efficient retrieval.
        
   - Interactive Dashboard: Presents data using Streamlit and Plotly, offering dynamic visualizations.
        
-  - Data Retrieval: Connects to the PostgreSQL database to display data on the dashboard.
+  - Data Retrieval: Connects to the MySQL database to display data on the dashboard.
        
   - Customization: Offers more interactive options for users to select different data visualizations.
 
@@ -30,7 +29,7 @@
     
   - Use Python, Pandas, and pymongo for data processing.
     
-  - Set up the PostgreSQL database for data storage.
+  - Set up the MySQL database for data storage.
     
   - Create the interactive dashboard using Streamlit and Plotly.
     
@@ -41,11 +40,11 @@
 
 ### Step 1: Install Required Libraries
 
-  - Before running the project, make sure to install the necessary libraries mentioned in the Dashboard.py file.
+  - Before running the project, make sure to install the necessary libraries mentioned in the Phonepe.py file.
 
 ### Step 2: Execute ETL Process
 
-  - Use the ETL.py file to perform the Extract, Transform, Load (ETL) process on the Phonepe Pulse data.
+  - Use the Phonepe_pulse.ipynb file to perform the Extract, Transform, Load (ETL) process on the Phonepe Pulse data.
 
 ### Step 3: Run the Dashboard
 
@@ -71,7 +70,7 @@
     
   - SQL (Structured Query Language)
     
-  - Data Management using PostgreSQL
+  - Data Management using MySQL
     
   - User Interface: Streamlit
     
@@ -84,7 +83,7 @@
   - This project delivers a user-friendly geo-visualization dashboard for exploring Phonepe Pulse data. Users can access and interact with various data visualizations through a web browser, gaining valuable insights from the Phonepe Pulse GitHub repository.
 
 
-### Phonepe Dashboard Link : [Click to view my Dashboard](https://drive.google.com/file/d/14KhsgA141OO72mddU5pqZknPXwh13b96/view?usp=drive_link)
+### Other Phonepe Dashboard Link : [Click to view my Dashboard](https://drive.google.com/file/d/14KhsgA141OO72mddU5pqZknPXwh13b96/view?usp=drive_link)
 
 ### Dashboard Pic
 
